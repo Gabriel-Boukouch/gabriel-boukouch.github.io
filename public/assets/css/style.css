@@ -1,0 +1,41 @@
+.page__title{
+    text-align: center;
+    font-size: 2rem;
+    margin: 50px 0 100px;
+}
+
+.characters__display{
+    max-width: 100%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px;
+}
+.character_block-left{
+    max-width: 50%;
+    margin: auto;
+}
+
+.character_block-left img{
+    max-width: 400px;
+    max-height: 400px;
+    margin: auto;
+}
+
+
+.character_block-right{
+    max-width: 50%;
+    margin: auto;
+}
+
+.character__name{
+    font-size: 1.5rem;
+}
+
+.character__type{
+    font-weight: 700;
+}
+
+.description{
+    font-style: italic;
+}
